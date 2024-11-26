@@ -1,0 +1,41 @@
+// abstracts folder
+@import "abstracts/function";
+@import "abstracts/mixins";
+@import "abstracts/variables";
+
+// base folder
+@import "base/base";
+@import "base/animation";
+@import "base/typography";
+@import "base/utilities";
+  
+// pages folder
+@import "base/pages/home";
+
+// components folder
+@import "components/button";
+@import "components/composition"; 
+@import "components/feature-box";  
+@import "components/card";
+@import "components/story";
+@import "components/bg-video";
+@import "components/form";
+@import "components/popup";
+// layouts folder
+@import "layout/header";
+@import "layout/grid";
+@import "layout/footer";
+@import "layout/navigation";
+
+
+
+
+/* 
+  // Light green: #7ed567
+  // Medium green: #55c57a
+  // Dark green:   #28b485
+
+  /* SITES:
+  =>>>>>>>>>> css clip-path maker 
+  =>>>>>>>>>> lorem generator
+  =>>>>>>>>>> Html entity reference*/
